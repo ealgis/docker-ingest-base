@@ -1,0 +1,9 @@
+.vagrant
+.*swp
+*.pyc
+*.pyo
+.ropeproject
+.DS_Store
+__pycache__
+*.egg-info
+.vscode/

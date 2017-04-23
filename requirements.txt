@@ -1,0 +1,6 @@
+GDAL==1.10.1
+GeoAlchemy2==0.4.0
+openpyxl==1.8.6
+psycopg2==2.7.1
+SQLAlchemy==1.1.9
+SQLAlchemy-Utils==0.32.14
