@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM python:3.6
 MAINTAINER https://github.com/ealgis/ealgis-ingest-base
 
 # httpredir is often down, just use the AARNET mirror
