@@ -4,3 +4,4 @@ psycopg2==2.7.1
 SQLAlchemy==1.1.9
 SQLAlchemy-Utils==0.32.14
 https://github.com/ealgis/ealgis-data-schema/archive/1.0.0.tar.gz
+https://github.com/ealgis/ealgis-common/archive/0.0.1.zip
