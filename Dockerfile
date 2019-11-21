@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
       python3 python3-dev python3-pip python3-setuptools \
       git gnupg \
       python-cairo liblzma-dev libxml2-dev \
-      python3-gdal gdal-bin postgis libxslt-dev pkg-config p7zip \
+      python3-gdal gdal-bin postgis libxslt-dev pkg-config p7zip unzip \
       libpq-dev \
       wget less git zip && \
   apt-get autoremove -y --purge && \
